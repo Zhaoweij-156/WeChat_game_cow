@@ -8,7 +8,7 @@ cc.Class({
             type: cc.SpriteFrame,
             default: [],
         },
-        // 帧的时间间隔
+        // 牛奔跑动画帧的时间间隔
         frame_duration: 0.1,
         // 是否在组件加载时播放
         isPlayOnLoad: false,
